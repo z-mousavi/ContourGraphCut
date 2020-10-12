@@ -7,4 +7,4 @@ We proposed a graph-based framework that gets the soft-value of other methods as
 
 ## How to use
 ### Dependencies
- Markup : * Download maxflow folder an make it.
+* Download maxflow folder an make it.
