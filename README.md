@@ -4,6 +4,6 @@ We proposed a graph-based framework that gets the soft-value of other methods as
 
 <p align="center">
   <img src="
-Contour_GraphCut/graphical_abstract_resized.tiff " width="700" title="hover text">
+https://github.com/z-mousavi/Contour_GraphCutContour_GraphCut/graphical_abstract_resized.tiff " width="700" title="hover text">
   
 </p>
