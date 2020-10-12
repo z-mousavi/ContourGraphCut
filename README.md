@@ -7,4 +7,4 @@ We proposed a graph-based framework that gets the soft-value of other methods as
 
 ## How to use
 ### Dependencies
-* Download the maxflow folder from this repository and make it.(https://www.mathworks.com/matlabcentral/fileexchange/21310-maxflow?s_tid=mwa_osa_a)
+* Download the maxflow folder from this repository and make it.(The Original reference is: https://www.mathworks.com/matlabcentral/fileexchange/21310-maxflow?s_tid=mwa_osa_a)
