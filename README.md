@@ -4,3 +4,6 @@
 We proposed a graph-based framework that gets the soft-value of other methods as its input and creates more meaningful contours. Inspired by the concept of non-classical receptive fields in the primary visual cortex, we considered important factors such as connectivity, smoothness, and length of the contour beside the soft-values.
 
 ![alt tag](https://github.com/z-mousavi/Contour_GraphCut/blob/main/Graphical_abstract.PNG)
+
+## How to use
+### Dependencies
