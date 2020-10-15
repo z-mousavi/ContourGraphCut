@@ -14,3 +14,5 @@ We proposed a graph-based framework that gets the soft-value of other methods as
 * The function edge2contour gets the soft edge-map and the parameters and returns the binary contour-map. 
 * Run the Gradient_Magnitude_test.m, mPb_test.m and SCG_test.m to see the result of applying our framework on three methods including: Gradient Magnitude, mPb and SCG. The parameters are trained for these three methods. If you require to employ our framework on your soft method, you should train the parameters anew.
 
+### Train
+
