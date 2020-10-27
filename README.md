@@ -17,7 +17,7 @@ We proposed a graph-based framework that gets the soft-value of other methods as
 * Download Berkeley Contour Detection and Image Segmentation Resources from https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/BSR/BSR_full.tgz and build it. It contains the BSDS500 dataset and also evaluation codes.
 * Run your soft edge detection method on training data and save the outputs as .mat format in a directory named softmap_directory. 
 * Consider an initial threshold and convert soft outputs to binary. After that compute the direction map for each binary image and save them as .mat format in a directory named dirmap_directory. For this purpose, you can use skeletonOrientation.m function that gets a binary image and returns orientation. Keep in mind that the initial threshold should not be too high. 
-* Open Objective_fuction file and edit the following paths: softmap_directory, dirmap_directory, training images directory, and ground truth images directory.
+* Open train.m  file and edit the following paths: softmap_directory, dirmap_directory, training images directory, and ground truth images directory.
 * Open train.m file and set the path of required libraries and run it. You can easily change the optimization parameters.
 
 
